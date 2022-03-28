@@ -3,7 +3,7 @@
 
 - I’m currently focusing on **Python** and **Django** development
 
-- 💬 Ask me about ** Django, React, Express, MongoDB, PostgreSQL, Full Stack Development, Hack Reactor**
+- 💬 Ask me about **Django, React, Express, MongoDB, PostgreSQL, Full Stack Development, Hack Reactor**
 
 - 📫 How to reach me: **thomascrose90@gmail.com**
 
